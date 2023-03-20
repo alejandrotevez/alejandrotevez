@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+const alejandro = {
+    pronouns: "He" | "Him",
+    technologies: {
+        frontEnd: {
+            js: ["React"],
+            css: ["bootstrap", "sass"]
+        },
+        backEnd: ["Java", "PHP"],
+        databases: ["MySql",],
+    }
+};
+
 <!--
 **alejandrotevez/alejandrotevez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
