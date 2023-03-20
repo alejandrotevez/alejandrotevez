@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+```javascript
 const alejandro = {
     pronouns: "He" | "Him",
     technologies: {
@@ -8,9 +9,10 @@ const alejandro = {
             css: ["bootstrap", "sass"]
         },
         backEnd: ["Java", "PHP"],
-        databases: ["MySql",],
+        databases: ["MySql"],
     }
 };
+```
 
 <!--
 **alejandrotevez/alejandrotevez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
