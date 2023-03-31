@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, soy alejandro tevez</h1>
 <h3 align="center">Un desarrollador frontend apasionado de Buenos aires, Argentina</h3>
 
-- 🌱 Actualmente estoy aprendiendo ** JavaScript, ReactJs**
+- 🌱 Actualmente estoy aprendiendo **JavaScript, ReactJs**
 
 - 💬 Pregúntame sobre **react**
 
-- 📫 Cómo contactarme **alejandrotevez100@gmail**
+- 📫 Cómo contactarme **alejandrotevez100@gmail.com**
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left"> </p>
